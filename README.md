@@ -1,6 +1,6 @@
 # 📈 A股分析系统 - 真实数据版
 
-专业的A股技术分析系统，只使用真实市场数据。
+专业的开源A股技术分析系统，只使用真实市场数据。喜欢或者感觉功能不错就给作者点个小红星，支持一下
 <img width="1872" height="809" alt="8dfe23db-5826-4dfa-a48d-b0c0ff4d398c" src="https://github.com/user-attachments/assets/397f33c4-5774-47b3-b866-62e16d6f3d7f" />
 
 <img width="1478" height="691" alt="9079531a-8469-4781-8ce0-8eb8e08085bf" src="https://github.com/user-attachments/assets/51946471-40ac-4b95-919b-9ea3ed1739da" />
